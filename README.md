@@ -1,7 +1,7 @@
 # Wrangle and Analyze Twitter Data
 ![Dog image](https://www.petguide.com/wp-content/uploads/2017/06/weratedogs-rasises-money-for-dog-causes.jpg)
 
-- Used data munging techniques to gather, assess and clean the twitter data of **WeRateDogs** account. 
+- Used data munging techniques to gather, assess and clean the twitter data of <a href="https://twitter.com/dog_rates" "target="_blank"">WeRateDogs</a> account. 
 
 - Full project can be found in the following Jupyter Notebook ---> **wrangle_act.ipynb**
 
