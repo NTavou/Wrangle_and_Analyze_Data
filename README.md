@@ -10,6 +10,6 @@
 
 - ...and another one to communicate the findings to a non-techical audience ---> **act_report.pdf** 
 
-- Pandas, Requests, Tweepy and Seaborn were used to complete the project.
+- Used Python (pandas, Requests, Tweepy, seaborn)
 
 This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/).
