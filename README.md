@@ -1,6 +1,14 @@
-# Wrangle_and_Analyze_Twitter_Data
-![Dog image](https://www.petguide.com/wp-content/uploads/2017/06/3-weratedogs-rasises-money-for-dog-causes.jpg)
+# Wrangle and Analyze Twitter Data
+![Dog image](dog_rates_tweet_photo.jpg)
 
-* Used data munging techniques to gather, assess and clean the twitter data of WeRateDogs account. Created a report that describes the wrangling part of the project and another one that communicates the insights and displays of the produced visualizations from the wrangled data. (Python, pandas, Requests, Tweepy, seaborn, jupyter)
+- Used data munging techniques to gather, assess and clean the twitter data of **WeRateDogs** account. 
 
-This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/)
+- Pandas, Requests, Tweepy and Seaborn were used to complete the project.
+The report was generated in a Jupyter Notebook ---> wrangle_act.ipynb.
+
+- Created a report that describes the wrangling part of the project ---> wrangle_report.pdf 
+
+...and another one that communicates the insights and displays of the produced visualizations from the wrangled data ---> act_report.pdf 
+
+
+This project is part of the Data Analyst Nanodegree Program by [Udacity](https://www.udacity.com/).
