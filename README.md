@@ -1,5 +1,5 @@
 # Wrangle and Analyze Twitter Data
-![Dog image](dhttps://www.petguide.com/wp-content/uploads/2017/06/weratedogs-rasises-money-for-dog-causes.jpg)
+![Dog image](https://www.petguide.com/wp-content/uploads/2017/06/weratedogs-rasises-money-for-dog-causes.jpg)
 
 - Used data munging techniques to gather, assess and clean the twitter data of **WeRateDogs** account. 
 
